@@ -1,5 +1,5 @@
  ㅤ ㅤ ㅤㅤ 「 🖤ꜱнͥινͣαͫиѕнυ🖤 」
-#  [![GIF](https://github.com/TheChampu/ChampuMusic/blob/master/TheChampu.gif)](https://github.com/TheChampu)
+#  [![GIF](https://github.com/ChampuXd/ChampuMusic/blob/master/TheChampu.gif)](https://github.com/TheChampu)
    [![𝕮𝖍𝖆𝖒𝖕𝖚](https://github-stats-alpha.vercel.app/api?username=TheChampu "𝕮𝖍𝖆𝖒𝖕𝖚")](https://github-stats-alpha.vercel.app/api?username=TheChampu "𝕮𝖍𝖆𝖒𝖕𝖚")
                                                           
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>     
